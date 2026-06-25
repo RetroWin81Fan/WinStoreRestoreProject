@@ -2,13 +2,13 @@
 <configuration xmlns="http://schemas.microsoft.com/windows/store/2012/05">
     <services>
         <service name="Topic">
-            <url>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/115/Topic.htm</url>
+            <url>https://winstorerestoreproject.pages.dev/115/Topic.htm</url>
         </service>
         <service name="Pages">
-            <url>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</url>
+            <url>https://winstorerestoreproject.pages.dev/Pages.xml</url>
         </service>
         <service name="HomePageData">
-            <url></url>
+            
         </service>
     </services>
     <settings>
