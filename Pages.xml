@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages>
+  <page id="frame" url="frame.htm" />
+  <page id="home" url="Home.htm" />
+  <page id="installs" url="Installs.htm" />
+  <page id="pscframe" url="PCSFrame.htm" />
+  <page id="pscredirect" url="PCSRedirect.htm" />
+  <page id="pdp" url="PDP.htm" />
+  <page id="reacquire" url="Reacquire.htm" />
+  <page id="reportproblem" url="ReportProblem.htm" />
+  <page id="results" url="Results.htm" />
+  <page id="review" url="Review.htm"/>
+  <page id="settings" url="Settings.htm" />
+  <page id="topic" url="Topic.htm" />
+  <page id="updates" url="Updates.htm" />
+  <page id="upgrade" url="Upgrade.htm" />
+</pages>
