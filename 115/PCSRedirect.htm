@@ -1,0 +1,16 @@
+﻿<!-- Copyright (C) Microsoft. All rights reserved. --><!DOCTYPE html><html lang="en-gb" xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=9" /><meta http-equiv="CACHE-CONTROL" CONTENT="NO-CACHE" /><meta charset="UTF-8" /><script type="text/javascript"><!--
+        function getUrlParam (url, paramName) {
+            var regexS = "[\\?&]" + paramName + "=([^&#]*)";
+            var regex = new RegExp(regexS);
+            var results = regex.exec(url);
+            return (results === null) ? "" : results[1];
+        }
+        var windowHref = window.location.href;
+        var accountId = getUrlParam(windowHref, "accountid");
+        var piid = getUrlParam(windowHref, "piid");
+        var target = getUrlParam(windowHref, "target");
+	if(piid == ""){
+		piid = getUrlParam(windowHref, "id")
+	}
+        window.top.location.href = "ms-windows-store://PCSResult?accountid=" + accountId + "&piid=" + piid + "&target=" + target;
+    //--></script></head><body></body></html>
