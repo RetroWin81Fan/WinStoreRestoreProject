@@ -12,64 +12,58 @@
   <S i="Featured">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Personalrecomm">
+  <S i="PersonalRecommendations">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Nonpersonalrec">
+  <S i="NonPersonalRecommendations">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Typeahead">
+  <S i="TypeAhead">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Search_0">
+  <S i="Search">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
   <S i="Categories">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Producttilebyp_1">
+  <S i="ProductTileByProductGuid">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Productbrowsel">
+  <S i="ProductBrowseList">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Producttileext_2">
+  <S i="ProductTileExtendedByProductGuid">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="stru_18001B128">
+  <S i="SubmitAppProblem">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Submitappprobl_0">
+  <S i="SubmitReviewProblem">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Submitreviewpr_0">
+  <S i="CreatePaymentAccount">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Createpaymenta">
+  <S i="AddPaymentAccount">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Addpaymentacco">
+  <S i="AddPI">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Addpi">
+  <S i="ModifyPI">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Modifypi">
+  <S i="GetAllPI">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Getallpi">
+  <S i="GetDefaultPI">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Getdefaultpi">
+  <S i="SetDefaultPI">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Setdefaultpi">
-    <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
-  </S>
-  <S i="Purchaseapp">
-    <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
-  </S>
-  <S i="Purchaseapp">
+  <S i="PurchaseApp">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
   <S i="Licensing">
@@ -81,115 +75,112 @@
   <S i="Namespace">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Purchaseinapp">
+  <S i="PurchaseInApp">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Purchaseinapp">
+  <S i="SubmitHelpfulness">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Submithelpfuln">
+  <S i="GetReview">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Getreview">
+  <S i="InAppOffers">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Inappoffers">
+  <S i="GetConsumer">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Getconsumer">
+  <S i="UpdateConsumer">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Updateconsumer">
+  <S i="ProductTileByPfn">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Myapps">
+  <S i="MyApps">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Devlicensing">
+  <S i="DevLicensing">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Getbannedapps">
+  <S i="GetBannedApps">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Producttileext_1">
+  <S i="ProductTileExtendedByPfn">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Discoveryforli">
+  <S i="DiscoveryForLicensing">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Channelbyscm">
+  <S i="ChannelByScm">
+    <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Channel.xml</U>
+  </S>
+  <S i="ResumePurchase">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Resumepurchase">
+  <S i="SearchXml">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Searchxml">
+  <S i="AcquireLicense">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Acquirelicense">
+  <S i="SyncLicenses">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Synclicenses">
+  <S i="AcquireReceipt">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Acquirereceipt">
+  <S i="GetDeviceList">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Getdevicelist">
+  <S i="GetApplicationList">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Getapplication">
+  <S i="RemoveDevice">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Removedevice">
+  <S i="ProvisionApplicationLicense">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Provisionappli">
+  <S i="ProvisionInAppLicense">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Provisioninapp">
+  <S i="ResetLicense">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Resetlicense">
+  <S i="AcquireDeveloperLicense">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Acquiredevelop">
+  <S i="ProductTileByProductGuidReleaseId">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Producttilebyp_0">
+  <S i="ProductTileExtendedByProductGuidReleaseId">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Producttileext">
+  <S i="SubmitAppProblemOa">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Submitappprobl">
+  <S i="SubmitReviewProblemOa">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Submitreviewpr">
+  <S i="FileAssociation">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Fileassociatio">
+  <S i="ProtocolHandler">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Protocolhandle">
+  <S i="StartUrl">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Starturl">
+  <S i="StopUrl">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Stopurl">
+  <S i="ProductTileExtendedByProductGuidForOS">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Producttileext_0">
+  <S i="AcquireWindowsLicense">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
-  <S i="Purchasewindow">
-    <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
-  </S>
-  <S i="Purchasewindow">
-    <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
-  </S>
-  <S i="Acquirewindows">
+  <S i="PurchaseWindows">
     <U>https://raw.githubusercontent.com/RetroWin81Fan/WinStoreRestoreProject/main/Pages.xml</U>
   </S>
 </Dsr>
