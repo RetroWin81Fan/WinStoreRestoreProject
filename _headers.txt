@@ -1,6 +1,6 @@
 /*
   Access-Control-Allow-Origin: *
 /*.xml
-  Content-Type: application/xml
+  Content-Type: text/xml
 /*.json
   Content-Type: application/json
