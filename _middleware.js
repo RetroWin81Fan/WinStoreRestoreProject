@@ -10,22 +10,32 @@
 // Pages.xml, Channel.xml) — Cloudflare Pages automatycznie go wykryje.
 
 export async function onRequest(context) {
-  const { request, next } = context;
+  const { request, next, env } = context;
 
-  // Dla GET/HEAD nic nie zmieniamy — niech Pages obsłuży to normalnie
-  // (czyli zwróci statyczny plik tak jak zawsze).
+  // Dla GET/HEAD nic nie zmieniamy — niech Pages obsłuży to normalnie.
   if (request.method === "GET" || request.method === "HEAD") {
     return next();
   }
 
-  // Dla POST (i każdej innej metody) — budujemy "podszywane" żądanie GET
-  // pod tym samym URL-em, żeby Pages zwróciło ten sam statyczny plik,
-  // który normalnie serwowałoby dla GET.
+  // Dla POST (i każdej innej metody) — Cloudflare Pages odrzuca metody
+  // inne niż GET/HEAD na poziomie routingu do plików statycznych, więc
+  // next() z podszywanym GET nie pomaga. Musimy sami pobrać plik z
+  // bindingu ASSETS i zwrócić go bezpośrednio, z metodą POST nadal w
+  // żądaniu, ale docelowy fetch do ASSETS robimy jako GET.
   const url = new URL(request.url);
-  const getRequest = new Request(url.toString(), {
-    method: "GET",
-    headers: request.headers,
-  });
 
-  return next(getRequest);
+  try {
+    const assetResponse = await env.ASSETS.fetch(
+      new Request(url.toString(), { method: "GET" })
+    );
+
+    // Klonujemy odpowiedź, żeby mieć pełną kontrolę nad nagłówkami/statusem.
+    const body = await assetResponse.text();
+    return new Response(body, {
+      status: 200,
+      headers: assetResponse.headers,
+    });
+  } catch (err) {
+    return new Response("Middleware error: " + err.message, { status: 500 });
+  }
 }
