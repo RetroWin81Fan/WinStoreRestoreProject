@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Br>
+  <LMs>
+    <LM>
+      <LT>1</LT>
+      <LN>Polecane dla Ciebie</LN>
+    </LM>
+    <LM>
+      <LT>2</LT>
+      <LN>Najpopularniejsze hity tygodnia</LN>
+    </LM>
+  </LMs>
+  <Nr>
+    <root>
+      <section>
+        <fs>
+          <f>
+            <i>idPrice</i>
+            <os>
+              <o>
+                <i>100</i>
+                <n>PLN</n>
+              </o>
+            </os>
+          </f>
+          <sort>
+            <i>idSearch</i>
+            <os>
+              <o>
+                <i>1</i>
+                <n>Według popularności</n>
+                <sb>10</sb>
+                <so>0</so>
+              </o>
+              <o>
+                <i>2</i>
+                <n>Najwyższa ocena</n>
+                <sb>12</sb>
+                <so>1</so>
+              </o>
+            </os>
+          </sort>
+        </fs>
+        <cs>
+          <rap>
+            <i>app</i>
+            <os>
+              <o>
+                <i>9991</i>
+                <n>Moja Pierwsza Aplikacja Mock</n>
+              </o>
+              <o>
+                <i>9992</i>
+                <n>Druga Fajna Gra</n>
+              </o>
+            </os>
+          </rap>
+          <rap>
+            <i>review</i>
+            <os>
+              <o>
+                <i>5501</i>
+                <n>Super aplikacja, działa niesamowicie!</n>
+              </o>
+            </os>
+          </rap>
+        </cs>
+      </section>
+    </root>
+  </Nr>
+</Br>
